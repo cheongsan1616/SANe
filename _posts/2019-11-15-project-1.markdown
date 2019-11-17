@@ -7,8 +7,6 @@ alt: image-alt
 twitter: <a href="https://twitter.com/cheongsan16lol">@cheongsan16lol</a>
 instagram: <a href="https://www.instagram.com/cheongsan1616/?hl=ko">@cheongsan1616</a>
 Email: <a href="mailto:cheongsan16@naver.com">cheongsan16@naver.com</a>
-description: 신하은 (17)<br>
-2003.04.09<br>
-...그만 알아보자
+description: 신하은 (17)<br>2003.04.09<br>그만 알아보자
 
 ---
